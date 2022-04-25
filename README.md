@@ -10,7 +10,9 @@
 | 18/0102087  |  Ian Fillipe Pontes Ferreira |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Neste trabalho, nós utilizamos do projeto realizado no tema de Grafos 2. Aqui, nós acrescentamos o algoritmo de Bellman-Ford, sem remover o algoritmo de Dijkstra, com o objetivo de comparar os dois algoritmos e determinar qual encontrará o menor caminho baseado nos pesos de cada aresta.
+
+Imagine a seguinte situação: uma empresa de táxi gostaria de saber qual o caminho mais rápido para deslocar o táxi até um passageiro que o requisitou, e depois o caminho mais rápido até seu destino. Para isso, esse projeto tem como objetivo criar e mostrar como é possível, mapeando pontos pela cidade, encontrar o caminho mais rápido entre esses pontos utilizando tanto o algoritmo de Dijkstra quanto o algoritmo de Bellman-Ford, verificando qual algoritmo encontrará o menor caminho primeiro. No nosso projeto, o táxi é representado pelo retângulo amarelo, o passageiro está na letra de cor rosa e seu destino está na letra de cor azul.
 
 ## Screenshots
 
