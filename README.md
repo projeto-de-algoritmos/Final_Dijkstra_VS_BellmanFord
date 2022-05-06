@@ -1,6 +1,6 @@
 # Trajeto Dijkstra Vs Bellman-Ford
 
-**Número da Lista**: X<br>
+**Número da Lista**: 17<br>
 **Conteúdo da Disciplina**: Final<br>
 
 ## Alunos
